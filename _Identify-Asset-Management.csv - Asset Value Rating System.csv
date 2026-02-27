@@ -1,0 +1,10 @@
+Asset Name,Asset Category,Business Importance,Data Sensitivity,Impact of Compromise,Likelihood of Threat,Total Rating (Sum),Priority Level
+Email Server,Server,5,4,5,4,18,High
+Web Server,Server,3,2,3,4,12,Medium
+Database Server,"Server, Data",5,5,5,2,17,High
+Laptop-001,Endpoint,3,2,4,4,13,Medium
+Laptop-002,Endpoint,3,3,4,4,14,Medium
+Switch-001,"Networking, Infrastructure",4,2,2,1,9,Low
+Firewall-001,"Security, Infrastructure, Networking",5,3,5,2,15,High
+Laptop-CEO,Endpoint,5,5,5,5,20,High
+Laptop-Fin-005,Endpoint,5,5,5,5,18,High
