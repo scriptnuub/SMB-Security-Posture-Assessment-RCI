@@ -1,0 +1,10 @@
+Asset ID,Asset Name,Asset Type,IP Address,Location,Owner,Operating System,Software Version,Purchase Date,Warranty Expiration,Criticality,Vulnerabilities Identified,Security Review,Comments
+1,Email Server,Server,192.168.1.10,Data Center,IT Dept.,Windows Server,Exchange 2016,2022-01-01,2025-01-01,High,,2024-06-01,
+2,Web Server,Server,192.168.1.30,Data Center,IT Dept.,Ubuntu 20.04,Apache 2.4.41,2022-03-15,2025-03-15,High,OpenSSL vulnerability,2024-05-15,
+3,Database Server,Server,192.168.1.20,Data Center,IT Dept.,RHEL 8,MySQL 8.0,2022-02-10,2025-02-10,High,SQL injection vulnerability,2024-06-01,
+4,Laptop-001,Workstation,192.168.1.108,Office,Emanuel Hendricks,Windows 10,N/A,2022-07-20,2024-07-20,Medium,,2024-06-10,
+5,Laptop-002,Workstation,192.168.1.111,Office,Alex Smith,Windows 10,N/A,2016-07-20,2017-07-20,Medium,"CVE-2017-0144 (EternalBlue) — CVSS 8.8 HIGH. Actively exploited in the wild (WannaCry, NotPetya). Patch immediately.",2024-06-10,
+6,Switch-001,Networking,172.18.0.100,Data Center,IT Dept.,N/A,N/A,2021-04-05,2024-04-05,Medium,,2024-05-20,
+7,Firewall-001,Security,172.19.0.100,Data Center,IT Dept.,N/A,FortiOS 6.4,2021-06-12,2024-06-12,High,FortiOS vulnerability,2024-06-15,
+8,Laptop-CEO,Workstation,192.168.1.222,Office,CEO,macOS,macOS Sonama,2024-03-17,2025-03-17,Medium,FileVault Disabled,2024-10-04,
+9,Laptop-Fin-005,Workstation,192.168.1.72,Office,Sophie Alvarez,Windows 10,22H2,,,High,Outdated Excel/Office versions; patching not being applied,2024-10-04,
