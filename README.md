@@ -3,24 +3,28 @@
 ## 📌 Objective
 Conducted a comprehensive security posture assessment for a small-to-medium business (SMB) environment. Identified critical vulnerabilities in asset management, prioritized security risks, and delivered actionable remediation recommendations to improve overall defense-in-depth.
 
-## 🛠️ Skills & Job Signals Demonstrated
-* **Risk Management:** Evaluated existing security controls and prioritized vulnerabilities based on business impact.
-* **Asset Management:** Cataloged hardware and software assets, identifying unauthorized or high-risk shadow IT.
-* **Security Control Implementation:** Recommended practical mitigation strategies aligned with industry best practices.
-* **Technical Documentation:** Translated raw assessment data into an executive-level security recommendation report.
+## 🛠️ Skills & Job Signals
+* **Risk Management:** Evaluated controls and prioritized vulnerabilities based on business impact.
+* **Asset Management:** Cataloged hardware/software assets to identify high-risk "Shadow IT."
+* **Security Control Implementation:** Recommended mitigations aligned with industry best practices.
+* **Technical Documentation:** Translated raw data into executive-level security reports.
 
-## 📂 Project Files
+## 📂 Project Structure
 
-### 🛡️ Core Assessment
-* **`Cybersecurity-Recommendations.pdf`**: Executive summary detailing the highest priority risks and step-by-step mitigation strategies. *(Start here)*
+**1. Executive Summary (Start Here)**
+<pre>🛡️ Cybersecurity-Recommendations.pdf</pre>
+*The primary report detailing high-priority risks and step-by-step mitigation strategies.*
 
-### 🗄️ Asset Management & Risk
-* **`Asset-Management.csv`**: Complete inventory of business hardware, software, and shadow IT.
-* **`Asset-Value-Rating.csv`**: Classification of assets based on criticality to business operations.
-* **`Risk-Assessment.csv`**: Evaluation of vulnerabilities, threats, and potential business impact.
+**2. Asset & Risk Data**
+<pre>🗄️ Asset-Management.csv
+🗄️ Asset-Value-Rating.csv
+🗄️ Risk-Assessment.csv</pre>
+*Detailed inventory and classification of hardware, software, and business criticality.*
 
-### 📝 Process & Methodology
-* **`Process-Notes-Priorities.csv`**, **`Process-Notes-Problems.csv`**, **`Process-Notes-Solutions.csv`**, **`Process-Notes-Final-Report.csv`**: Raw case file data and documentation of the assessment methodology, workflow, and identified security gaps.
+**3. Methodology & Case Files**
+<pre>📝 Process-Notes-Solutions.csv
+📝 Process-Notes-Final-Report.csv</pre>
+*Raw data and workflow documentation showing the logic behind the assessment.*
 
 ## 🚀 Impact
-This project demonstrates the ability to step into an unknown environment, map the attack surface, identify critical security gaps, and provide management with a clear, actionable roadmap to secure the business.
+This project demonstrates my ability to map a company's attack surface, identify critical security gaps, and provide management with a clear, actionable roadmap to secure the business.
